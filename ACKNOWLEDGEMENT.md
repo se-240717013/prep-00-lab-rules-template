@@ -1,6 +1,6 @@
 # Lab Rules Acknowledgement
 
-GitHub username: <replace-with-your-github-username>
+GitHub username: se-240717013
 
 I confirm that I have read the Lab Rules and Academic Integrity Notice and
 understand that I am responsible for following it throughout the term.
